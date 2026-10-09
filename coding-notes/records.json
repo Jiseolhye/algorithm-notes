@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "records": [
+    {
+      "extension": "py",
+      "hash": "170bf15cd41a91445b55c933a52d70b8fdfb5fc32ce4c15417e9a82e18f407aa",
+      "id": "120843",
+      "key": "120843-Python-170bf15cd41a91445b55c933a52d70b8fdfb5fc32ce4c15417e9a82e18f407aa",
+      "language": "Python",
+      "level": "미확인",
+      "notes": "",
+      "solvedAt": "2026-10-09T14:40:42.673Z",
+      "source": "auto",
+      "tags": [],
+      "title": "공 던지기",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/120843"
+    }
+  ]
+}
