@@ -14,6 +14,20 @@
       "tags": [],
       "title": "공 던지기",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/120843"
+    },
+    {
+      "extension": "py",
+      "hash": "eb81821bddaabf71a6a013734273a4b7742758ef4ce0bf45012eb394beaf9f07",
+      "id": "120840",
+      "key": "120840-Python-eb81821bddaabf71a6a013734273a4b7742758ef4ce0bf45012eb394beaf9f07",
+      "language": "Python",
+      "level": "미확인",
+      "notes": "",
+      "solvedAt": "2026-10-10T05:15:02.903Z",
+      "source": "auto",
+      "tags": [],
+      "title": "구슬을 나누는 경우의 수",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/120840"
     }
   ]
 }
