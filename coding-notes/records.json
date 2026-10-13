@@ -28,6 +28,20 @@
       "tags": [],
       "title": "구슬을 나누는 경우의 수",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/120840"
+    },
+    {
+      "extension": "py",
+      "hash": "3b1790388f189e095651e13ecefc20279ecc98c947f23d78513d2f095dbdd4e4",
+      "id": "120885",
+      "key": "120885-Python-3b1790388f189e095651e13ecefc20279ecc98c947f23d78513d2f095dbdd4e4",
+      "language": "Python",
+      "level": "미확인",
+      "notes": "",
+      "solvedAt": "2026-10-13T13:45:50.052Z",
+      "source": "auto",
+      "tags": [],
+      "title": "이진수 더하기",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/120885"
     }
   ]
 }
